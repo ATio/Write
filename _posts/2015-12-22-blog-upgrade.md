@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 博客升级
-date:2015-12-22 00:29:22
-author: AwThink
 description: 博客还是原来的博客、域名还是原来的域名，甚至模板还是原来的模板，但现在，“内里”变了，骨子变了，架构变了。
 keywords: Blog
 category: [致知录]
